@@ -1,0 +1,603 @@
+msg	em1
+Me gusta	positivo
+Es buen producto	positivo
+Me parece un producto de buena calidad	positivo
+Tiene fallos	negativo
+No me parece un producto de buena calidad	negativo
+No tiene buen aspecto	negativo
+Está bien, pero podría estar mejor	neutro
+No me esperaba algo tan bueno	positivo
+No me esperaba algo de tan poca calidad	negativo
+Es un timo	negativo
+El servicio técnico es malo	negativo
+Me han tratado fenomenal	positivo
+La impresión ha sido positiva	positivo
+Da muy buena impresión	positivo
+Esperaba un producto de mejor calidad	negativo
+La calidad no es la esperada	negativo
+Ofrece todo lo que esperaba	positivo
+Correcto, sin más	neutro
+Lo volvería a comprar	positivo
+No lo volveré a comprar	negativo
+Es un gran producto	positivo
+Es un producto mediocre	negativo
+Creo que estamos ante el mejor de los productos	positivo
+Malo	negativo
+Bueno, sin paliativos	positivo
+Está bien, sin más	neutro
+Del montón	neutro
+Es un producto sin pena ni gloria	neutro
+No es mal producto	positivo
+Arrastra algunas deficiencias	negativo
+Es prometedor	positivo
+Sin alardes, bien	positivo
+No funciona correctamente	negativo
+No funciona según lo especificado	negativo
+No hay manera de que funcione	negativo
+No creo que sirva para lo que dice	negativo
+En línea con la competencia	neutro
+Equivalente a lo que ofrecen otros	neutro
+No destaca por nada en especial	neutro
+Cumple su función, sin más	neutro
+No creo que vuelva a comprarlo	negativo
+Me ha encantado	positivo
+Me ha enamorado	positivo
+Muy buena impresión en general	positivo
+En general, cumple con lo especificado	positivo
+Creo que he hecho buena compra	positivo
+Es una buena opción, por encima de las demás	positivo
+Debemos concluir que la decisión ha sido acertada	positivo
+Decepcionante	negativo
+Muy decepcionante	negativo
+No merece la pena	negativo
+Sin ningún tipo de dudas, el mejor	positivo
+No piendo volver a comprarlo	negativo
+En mal estado	negativo
+Llegó abierto y roto	negativo
+Llegó tarde y en mal estado	negativo
+No ha llegado a tiempo	negativo
+No os fiéis de la publicidad	negativo
+No os lo recomiendo	negativo
+Me gusta	positivo
+Es buen producto	positivo
+Me parece un producto de buena calidad	positivo
+Tiene fallos	negativo
+No me parece un producto de buena calidad	negativo
+No tiene buen aspecto	negativo
+Está bien, pero podría estar mejor	neutro
+No me esperaba algo tan bueno	positivo
+No me esperaba algo de tan poca calidad	negativo
+Es un timo	negativo
+El servicio técnico es malo	negativo
+Me han tratado fenomenal	positivo
+La impresión ha sido positiva	positivo
+Da muy buena impresión	positivo
+Esperaba un producto de mejor calidad	negativo
+La calidad no es la esperada	negativo
+Ofrece todo lo que esperaba	positivo
+Correcto, sin más	neutro
+Lo volvería a comprar	positivo
+No lo volveré a comprar	negativo
+Es un gran producto	positivo
+Es un producto mediocre	negativo
+Creo que estamos ante el mejor de los productos	positivo
+Malo	negativo
+Bueno, sin paliativos	positivo
+Está bien, sin más	neutro
+Del montón	neutro
+Es un producto sin pena ni gloria	neutro
+No es mal producto	positivo
+Arrastra algunas deficiencias	negativo
+Es prometedor	positivo
+Sin alardes, bien	positivo
+No funciona correctamente	negativo
+No funciona según lo especificado	negativo
+No hay manera de que funcione	negativo
+No creo que sirva para lo que dice	negativo
+En línea con la competencia	neutro
+Equivalente a lo que ofrecen otros	neutro
+No destaca por nada en especial	neutro
+Cumple su función, sin más	neutro
+No creo que vuelva a comprarlo	negativo
+Me ha encantado	positivo
+Me ha enamorado	positivo
+Muy buena impresión en general	positivo
+En general, cumple con lo especificado	positivo
+Creo que he hecho buena compra	positivo
+Es una buena opción, por encima de las demás	positivo
+Debemos concluir que la decisión ha sido acertada	positivo
+Decepcionante	negativo
+Muy decepcionante	negativo
+No merece la pena	negativo
+Sin ningún tipo de dudas, el mejor	positivo
+No piendo volver a comprarlo	negativo
+En mal estado	negativo
+Llegó abierto y roto	negativo
+Llegó tarde y en mal estado	negativo
+No ha llegado a tiempo	negativo
+No os fiéis de la publicidad	negativo
+No os lo recomiendo	negativo
+Me gusta	positivo
+Es buen producto	positivo
+Me parece un producto de buena calidad	positivo
+Tiene fallos	negativo
+No me parece un producto de buena calidad	negativo
+No tiene buen aspecto	negativo
+Está bien, pero podría estar mejor	neutro
+No me esperaba algo tan bueno	positivo
+No me esperaba algo de tan poca calidad	negativo
+Es un timo	negativo
+El servicio técnico es malo	negativo
+Me han tratado fenomenal	positivo
+La impresión ha sido positiva	positivo
+Da muy buena impresión	positivo
+Esperaba un producto de mejor calidad	negativo
+La calidad no es la esperada	negativo
+Ofrece todo lo que esperaba	positivo
+Correcto, sin más	neutro
+Lo volvería a comprar	positivo
+No lo volveré a comprar	negativo
+Es un gran producto	positivo
+Es un producto mediocre	negativo
+Creo que estamos ante el mejor de los productos	positivo
+Malo	negativo
+Bueno, sin paliativos	positivo
+Está bien, sin más	neutro
+Del montón	neutro
+Es un producto sin pena ni gloria	neutro
+No es mal producto	positivo
+Arrastra algunas deficiencias	negativo
+Es prometedor	positivo
+Sin alardes, bien	positivo
+No funciona correctamente	negativo
+No funciona según lo especificado	negativo
+No hay manera de que funcione	negativo
+No creo que sirva para lo que dice	negativo
+En línea con la competencia	neutro
+Equivalente a lo que ofrecen otros	neutro
+No destaca por nada en especial	neutro
+Cumple su función, sin más	neutro
+No creo que vuelva a comprarlo	negativo
+Me ha encantado	positivo
+Me ha enamorado	positivo
+Muy buena impresión en general	positivo
+En general, cumple con lo especificado	positivo
+Creo que he hecho buena compra	positivo
+Es una buena opción, por encima de las demás	positivo
+Debemos concluir que la decisión ha sido acertada	positivo
+Decepcionante	negativo
+Muy decepcionante	negativo
+No merece la pena	negativo
+Sin ningún tipo de dudas, el mejor	positivo
+No piendo volver a comprarlo	negativo
+En mal estado	negativo
+Llegó abierto y roto	negativo
+Llegó tarde y en mal estado	negativo
+No ha llegado a tiempo	negativo
+No os fiéis de la publicidad	negativo
+No os lo recomiendo	negativo
+Me gusta	positivo
+Es buen producto	positivo
+Me parece un producto de buena calidad	positivo
+Tiene fallos	negativo
+No me parece un producto de buena calidad	negativo
+No tiene buen aspecto	negativo
+Está bien, pero podría estar mejor	neutro
+No me esperaba algo tan bueno	positivo
+No me esperaba algo de tan poca calidad	negativo
+Es un timo	negativo
+El servicio técnico es malo	negativo
+Me han tratado fenomenal	positivo
+La impresión ha sido positiva	positivo
+Da muy buena impresión	positivo
+Esperaba un producto de mejor calidad	negativo
+La calidad no es la esperada	negativo
+Ofrece todo lo que esperaba	positivo
+Correcto, sin más	neutro
+Lo volvería a comprar	positivo
+No lo volveré a comprar	negativo
+Es un gran producto	positivo
+Es un producto mediocre	negativo
+Creo que estamos ante el mejor de los productos	positivo
+Malo	negativo
+Bueno, sin paliativos	positivo
+Está bien, sin más	neutro
+Del montón	neutro
+Es un producto sin pena ni gloria	neutro
+No es mal producto	positivo
+Arrastra algunas deficiencias	negativo
+Es prometedor	positivo
+Sin alardes, bien	positivo
+No funciona correctamente	negativo
+No funciona según lo especificado	negativo
+No hay manera de que funcione	negativo
+No creo que sirva para lo que dice	negativo
+En línea con la competencia	neutro
+Equivalente a lo que ofrecen otros	neutro
+No destaca por nada en especial	neutro
+Cumple su función, sin más	neutro
+No creo que vuelva a comprarlo	negativo
+Me ha encantado	positivo
+Me ha enamorado	positivo
+Muy buena impresión en general	positivo
+En general, cumple con lo especificado	positivo
+Creo que he hecho buena compra	positivo
+Es una buena opción, por encima de las demás	positivo
+Debemos concluir que la decisión ha sido acertada	positivo
+Decepcionante	negativo
+Muy decepcionante	negativo
+No merece la pena	negativo
+Sin ningún tipo de dudas, el mejor	positivo
+No piendo volver a comprarlo	negativo
+En mal estado	negativo
+Llegó abierto y roto	negativo
+Llegó tarde y en mal estado	negativo
+No ha llegado a tiempo	negativo
+No os fiéis de la publicidad	negativo
+No os lo recomiendo	negativo
+Me gusta	positivo
+Es buen producto	positivo
+Me parece un producto de buena calidad	positivo
+Tiene fallos	negativo
+No me parece un producto de buena calidad	negativo
+No tiene buen aspecto	negativo
+Está bien, pero podría estar mejor	neutro
+No me esperaba algo tan bueno	positivo
+No me esperaba algo de tan poca calidad	negativo
+Es un timo	negativo
+El servicio técnico es malo	negativo
+Me han tratado fenomenal	positivo
+La impresión ha sido positiva	positivo
+Da muy buena impresión	positivo
+Esperaba un producto de mejor calidad	negativo
+La calidad no es la esperada	negativo
+Ofrece todo lo que esperaba	positivo
+Correcto, sin más	neutro
+Lo volvería a comprar	positivo
+No lo volveré a comprar	negativo
+Es un gran producto	positivo
+Es un producto mediocre	negativo
+Creo que estamos ante el mejor de los productos	positivo
+Malo	negativo
+Bueno, sin paliativos	positivo
+Está bien, sin más	neutro
+Del montón	neutro
+Es un producto sin pena ni gloria	neutro
+No es mal producto	positivo
+Arrastra algunas deficiencias	negativo
+Es prometedor	positivo
+Sin alardes, bien	positivo
+No funciona correctamente	negativo
+No funciona según lo especificado	negativo
+No hay manera de que funcione	negativo
+No creo que sirva para lo que dice	negativo
+En línea con la competencia	neutro
+Equivalente a lo que ofrecen otros	neutro
+No destaca por nada en especial	neutro
+Cumple su función, sin más	neutro
+No creo que vuelva a comprarlo	negativo
+Me ha encantado	positivo
+Me ha enamorado	positivo
+Muy buena impresión en general	positivo
+En general, cumple con lo especificado	positivo
+Creo que he hecho buena compra	positivo
+Es una buena opción, por encima de las demás	positivo
+Debemos concluir que la decisión ha sido acertada	positivo
+Decepcionante	negativo
+Muy decepcionante	negativo
+No merece la pena	negativo
+Sin ningún tipo de dudas, el mejor	positivo
+No piendo volver a comprarlo	negativo
+En mal estado	negativo
+Llegó abierto y roto	negativo
+Llegó tarde y en mal estado	negativo
+No ha llegado a tiempo	negativo
+No os fiéis de la publicidad	negativo
+No os lo recomiendo	negativo
+Me gusta	positivo
+Es buen producto	positivo
+Me parece un producto de buena calidad	positivo
+Tiene fallos	negativo
+No me parece un producto de buena calidad	negativo
+No tiene buen aspecto	negativo
+Está bien, pero podría estar mejor	neutro
+No me esperaba algo tan bueno	positivo
+No me esperaba algo de tan poca calidad	negativo
+Es un timo	negativo
+El servicio técnico es malo	negativo
+Me han tratado fenomenal	positivo
+La impresión ha sido positiva	positivo
+Da muy buena impresión	positivo
+Esperaba un producto de mejor calidad	negativo
+La calidad no es la esperada	negativo
+Ofrece todo lo que esperaba	positivo
+Correcto, sin más	neutro
+Lo volvería a comprar	positivo
+No lo volveré a comprar	negativo
+Es un gran producto	positivo
+Es un producto mediocre	negativo
+Creo que estamos ante el mejor de los productos	positivo
+Malo	negativo
+Bueno, sin paliativos	positivo
+Está bien, sin más	neutro
+Del montón	neutro
+Es un producto sin pena ni gloria	neutro
+No es mal producto	positivo
+Arrastra algunas deficiencias	negativo
+Es prometedor	positivo
+Sin alardes, bien	positivo
+No funciona correctamente	negativo
+No funciona según lo especificado	negativo
+No hay manera de que funcione	negativo
+No creo que sirva para lo que dice	negativo
+En línea con la competencia	neutro
+Equivalente a lo que ofrecen otros	neutro
+No destaca por nada en especial	neutro
+Cumple su función, sin más	neutro
+No creo que vuelva a comprarlo	negativo
+Me ha encantado	positivo
+Me ha enamorado	positivo
+Muy buena impresión en general	positivo
+En general, cumple con lo especificado	positivo
+Creo que he hecho buena compra	positivo
+Es una buena opción, por encima de las demás	positivo
+Debemos concluir que la decisión ha sido acertada	positivo
+Decepcionante	negativo
+Muy decepcionante	negativo
+No merece la pena	negativo
+No me termina de gustar	negativo
+No le acabo de ver utilidad	negativo
+Muy útil y sencillo de usar	positivo
+Muy mal embalado	negativo
+Llegó antes de lo esperado	positivo
+Llegó sin problemas	positivo
+Sin ningún tipo de dudas, el mejor	positivo
+No piendo volver a comprarlo	negativo
+En mal estado	negativo
+Llegó abierto y roto	negativo
+Llegó tarde y en mal estado	negativo
+No ha llegado a tiempo	negativo
+No os fiéis de la publicidad	negativo
+No os lo recomiendo	negativo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo mejor que he visto	positivo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+de lo peor que he visto	negativo
+Es un buen producto	positivo
+Es un mal producto	negativo
+Es un buen producto	positivo
+Es un mal producto	negativo
+Es un buen producto	positivo
+Es un mal producto	negativo
+Es un buen producto	positivo
+Es un mal producto	negativo
+Es un buen producto	positivo
+Es un mal producto	negativo
+Es un buen producto	positivo
+Es un mal producto	negativo
+No es un buen producto	negativo
+No es un buen producto	negativo
+No es buen producto	negativo
+No es un buen producto	negativo
+No es un mal producto	positivo
+No es mal producto	positivo
+No es un mal producto	positivo
+No es un mal producto	positivo
+No es mal producto	positivo
+Volveré a comprarlo positivo
+Soy un fan de este producto positivo
+No puedo vivir sin él   positivo
+Me gusta positivo
+Es buen producto positivo
+Me parece un producto de buena calidad positivo
+Tiene fallos negativo
+No me parece un producto de buena calidad negativo
+No tiene buen aspecto negativo
+Está bien, pero podría estar mejor neutro
+No me esperaba algo tan bueno positivo
+No me esperaba algo de tan poca calidad negativo
+Es un timo negativo
+El servicio técnico es malo negativo
+Este producto es impresionante positivo
+Es de alta calidad positivo
+No me gusta negativo
+Podría ser mejor neutro
+Es bastante bueno positivo
+No es muy bueno negativo
+No me gusta su sabor negativo
+Es agradable positivo
+Es una buena opción positivo
+No es la mejor opción negativo
+Lo recomiendo positivo
+No lo recomendaría negativo
+Podría recomendarlo neutro
+Es una ganga positivo
+Es caro negativo
+Es un robo negativo
+Lo compré en oferta positivo
+No vale la pena el precio negativo
+Está sobrevalorado negativo
+Merece la pena positivo
+No merece la pena negativo
+Es perfecto positivo
+No es perfecto, pero está cerca positivo
+No es tan bueno como dicen negativo
+Es exactamente lo que necesitaba positivo
+No cumple con mis expectativas negativo
+Es fácil de usar positivo
+Es difícil de usar negativo
+Es eficiente positivo
+Es ineficiente negativo
+Es rápido positivo
+Es lento negativo
+Es fácil de montar positivo
+Es difícil de montar negativo
+Está bien hecho positivo
+Es de mala calidad negativo
+Es cómodo positivo
+No es cómodo negativo
+Está de moda positivo
+Ya no está de moda negativo
+Es popular positivo
+No es popular negativo
+Es divertido positivo
+No es divertido negativo
+Es un clásico positivo
+Es obsoleto negativo
+Es confiable positivo
+No es confiable negativo
+Es seguro positivo
+No es seguro negativo
+Es ligero positivo
+Es pesado negativo
+Es portátil positivo
+No es portátil negativo
+Es atractivo positivo
+No es atractivo negativo
+Es versátil positivo
+Es limitado negativo
+Es fácil de limpiar positivo
+Es difícil de limpiar negativo
+Es fácil de transportar positivo
+Es difícil de transportar negativo
+Es fácil de almacenar positivo
+Es difícil de almacenar negativo
+Es silencioso positivo
+Es ruidoso negativo
+No es lo que esperaba negativo
+Es exactamente lo que esperaba positivo
+No puedo vivir sin él positivo
+Puedo vivir sin él negativo
+Es imprescindible positivo
+Es prescindible negativo
+Es una herramienta muy útil positivo
+Es difícil de encontrar negativo
+Es muy popular positivo
+No es tan popular negativo
+Está bien diseñado positivo
+Está mal diseñado negativo
+Es fácil de usar positivo
+Es difícil de usar negativo
+Es fácil de aprender positivo
+Es difícil de aprender negativo
+Es fácil de entender positivo
+Es difícil de entender negativo
+Es fácil de manejar positivo
+Es difícil de manejar negativo
+Es fácil de configurar positivo
+Es difícil de configurar negativo
+Es fácil de instalar positivo
+Es difícil de instalar negativo
+Es fácil de reparar positivo
+Es difícil de reparar negativo
+Está bien embalado positivo
+Está mal embalado negativo
+Tiene un buen olor positivo
+Tiene un mal olor negativo
+Tiene un buen sabor positivo
+Tiene un mal sabor negativo
+Es refrescante positivo
+No es refrescante negativo
+Es relajante positivo
+No es relajante negativo
+Es energizante positivo
+No es energizante negativo
+Es nutritivo positivo
+No es nutritivo negativo
+Es fácil de limpiar positivo
+Es difícil de limpiar negativo
+Es fácil de mantener positivo
+Es difícil de mantener negativo
+Es fácil de guardar positivo
+Es difícil de guardar negativo
+Es fácil de transportar positivo
+Es difícil de transportar negativo
+Es fácil de usar a diario positivo
+Es difícil de usar a diario negativo
+Es fácil de usar ocasionalmente positivo
+Es difícil de usar ocasionalmente negativo
+Es fácil de combinar con otras cosas positivo
+Es difícil de combinar con otras cosas negativo
+Es fácil de emparejar con otros dispositivos positivo
+Es difícil de emparejar con otros dispositivos negativo
+Tiene una buena calidad de sonido positivo
+Tiene una mala calidad de sonido negativo
+Tiene una buena calidad de imagen positivo
+Tiene una mala calidad de imagen negativo
+Tiene una buena duración de batería positivo
+Tiene una mala duración de batería negativo
+Es resistente al agua positivo
+No es resistente al agua negativo
+Es resistente al polvo positivo
+No es resistente al polvo negativo
+Es resistente a los golpes positivo
+No es resistente a los golpes negativo
+Es resistente a las caídas positivo
+No es resistente a las caídas negativo
+Tiene muchas funciones positivo
+No tiene muchas funciones negativo
+Tiene una buena relación calidad-precio positivo
+No tiene una buena relación calidad-precio negativo
+Es muy caro positivo
+Es muy barato positivo
+Tiene un precio justo positivo
+No tiene un precio justo negativo
+Es fácil de manejar positivo
+Es difícil de manejar negativo
+Es fácil de sostener positivo
+Es difícil de sostener negativo
+Tiene una buena cantidad de almacenamiento positivo
+Tiene una mala cantidad de almacenamiento negativo
+Es compatible con muchos dispositivos positivo
+No es compatible con muchos dispositivos negativo
+Es fácil de actualizar positivo
+Es difícil de actualizar negativo
+Es fácil de cargar positivo
+Es difícil de cargar negativo
+Tiene muchas opciones positivo
+No tiene muchas opciones negativo
+
+
+
