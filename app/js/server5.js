@@ -12,9 +12,7 @@ function iniciar(encaminar,h){
         var direc = url.parse(request.url).pathname;
         console.log("petición recibida: "+ direc);
         encaminar(direc,h,response);
-        // Toda la gestión de salida se ha ido de aquí
-        
-    
+        // Toda la gestión de salida se ha ido de aquí    
     }
     var s=http.createServer(gestorPeticiones);
     s.listen(8888);
