@@ -21,7 +21,7 @@ Para ejecutar la aplicación, se requiere tener instalado lo siguiente:
 - Node.js 
 - Maatlab 
 
-## Instalación
+## Instalación .
 
 Para instalar la aplicación, siga estos pasos:
 
