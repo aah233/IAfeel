@@ -32,6 +32,8 @@ https://github.com/niocoderer/IAfeel.git
 
 3. Iniciar la aplicación:
 
+Y con la ejecución del comando node init.js
+
 La aplicación estará disponible en la dirección http://localhost:8888.
 
 
