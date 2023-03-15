@@ -9,8 +9,8 @@ Usar la api de openIA para la optención de opiniones.
 
 Este proyecto ha sido desarrollado por dos integrantes:
 
-- Antonio Aranda Hernández (rol: desarrollador principal)
-- Antonio José Jiménez Luque (rol: desarrollador principal)
+- Antonio Aranda Hernández 
+- Antonio José Jiménez Luque 
 
 ## Tecnologias usadas
 
