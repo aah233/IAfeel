@@ -5,12 +5,6 @@ Este proyecto es una aplicación de inteligencia artificial para la obtención d
 
 Usar la api de openIA para la optención de opiniones.
 
-## Equipo
-
-Este proyecto ha sido desarrollado por dos integrantes:
-
-- Antonio Aranda Hernández 
-- Antonio José Jiménez Luque 
 
 ## Tecnologias usadas
 
